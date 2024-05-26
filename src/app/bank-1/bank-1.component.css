@@ -57,7 +57,7 @@ body {
   /*header section*/
   .hero_area {
     height: 100vh;
-    background-image: url(assets/images/hero-bg.jpg);
+    background-image: url(../../assets/images/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -191,7 +191,7 @@ body {
   }
   
   .custom_nav-container .nav_search-btn {
-    background-image: url(assets/images/search-icon.png);
+    background-image: url(../../assets/images/search-icon.png);
     background-size: 22px;
     background-repeat: no-repeat;
     background-position-y: 7px;
@@ -228,7 +228,7 @@ body {
   }
   
   .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-    background-image: url(assets/images/menu.png);
+    background-image: url(../../assets/images/menu.png);
     background-size: 55px;
   }
   
@@ -384,23 +384,23 @@ body {
   }
   
   .slider_section .carousel-control-prev {
-    background-image: url(assets/images/prev.png);
+    background-image: url(../../assets/images/prev.png);
     -webkit-transform: translateY(57%);
             transform: translateY(57%);
   }
   
   .slider_section .carousel-control-prev:hover {
-    background-image: url(assets/images/prev-grey.png);
+    background-image: url(../../assets/images/prev-grey.png);
   }
   
   .slider_section .carousel-control-next {
-    background-image: url(assets/images/next.png);
+    background-image: url(../../assets/images/next.png);
     -webkit-transform: translateY(-57%);
             transform: translateY(-57%);
   }
   
   .slider_section .carousel-control-next:hover {
-    background-image: url(assets/images/next-grey.png);
+    background-image: url(../../assets/images/next-grey.png);
   }
   
   .slider_section .number_box {
@@ -442,7 +442,7 @@ body {
   
   .about_section .about_container {
     padding: 45px;
-    background-image: url(assets/images/about-bg.jpg);
+    background-image: url(../../assets/images/about-bg.jpg);
     background-size: cover;
   }
   
@@ -633,21 +633,21 @@ body {
   .class_section .owl-carousel .owl-nav .owl-prev {
     width: 75px;
     height: 75px;
-    background-image: url(assets/images/prev.png);
+    background-image: url(../../assets/images/prev.png);
   }
   
   .class_section .owl-carousel .owl-nav .owl-prev:hover {
-    background-image: url(assets/images/prev-grey.png);
+    background-image: url(../../assets/images/prev-grey.png);
   }
   
   .class_section .owl-carousel .owl-nav .owl-next {
     width: 50px;
     height: 50px;
-    background-image: url(assets/images/next.png);
+    background-image: url(../../assets/images/next.png);
   }
   
   .class_section .owl-carousel .owl-nav .owl-next:hover {
-    background-image: url(assets/images/next-grey.png);
+    background-image: url(../../assets/images/next-grey.png);
   }
   
   .blog_section {
@@ -823,7 +823,7 @@ body {
   }
   
   .client_section .owl-carousel .owl-nav .owl-prev {
-    background-image: url(assets/images/prev-arrow.png);
+    background-image: url(../../assets/images/prev-arrow.png);
     background-color: #000000;
     -webkit-transform: translateX(10px);
             transform: translateX(10px);
@@ -831,7 +831,7 @@ body {
   }
   
   .client_section .owl-carousel .owl-nav .owl-next {
-    background-image: url(assets/images/next-arrow.png);
+    background-image: url(../../assets/images/next-arrow.png);
     background-color: #ffffff;
     -webkit-transform: translateX(-10px);
             transform: translateX(-10px);
